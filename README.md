@@ -1,3 +1,6 @@
+# THIS project has moved to its own repo 
+# https://github.com/waifu-core/waifu-core
+
 Waifu-Core staging tree 24.x
 ===========================
 
